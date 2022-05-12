@@ -18,7 +18,7 @@ Full Stack Web Developer.
 
 My motivation lies within using technology as a tool for positive change. With a background in Chemical & Industrial Engineering.
 
-Want to know more about me or have a website or app developed for you? Visit me at my <a href="https://jamilsinno.ca">website</a>
+Want to know more about me or have a website or app developed for you? Visit me at my <a href="https://jamilsinno.ca">website.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
