@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamil</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<img src="https://jmlsnn.imgur.com/all/?third_party=1" width="100%">
 
 - 👨‍💻 All of my projects are available at [https://jamilsinno.ca](https://jamilsinno.ca)
 
