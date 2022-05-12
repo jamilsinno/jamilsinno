@@ -1,4 +1,4 @@
-<img src="https://jmlsnn.imgur.com/all/?third_party=1" width="100%">
+<img src="https://imgur.com/vn3LtVE" width="100%" alt="Jamil Sinno Page logo">
 
 - 👨‍💻 All of my projects are available at [https://jamilsinno.ca](https://jamilsinno.ca)
 
