@@ -20,6 +20,8 @@ My motivation lies within using technology as a tool for positive change. With a
 
 Want to know more about me or have a website or app developed for you? Visit me at my <a href="https://jamilsinno.ca">website.</a>
 
+#A11y
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jamilsinno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamilsinno" height="30" width="40" /></a>
