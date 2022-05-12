@@ -1,10 +1,24 @@
 <img src="https://i.imgur.com/vn3LtVE.png" width="100%" alt="Jamil Sinno Page logo">
 
-- 👨‍💻 All of my projects are available at [https://jamilsinno.ca](https://jamilsinno.ca)
+<p align="center">
+  <a href="https://jamilsinno.ca" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://linkedin.com/in/jamilsinno" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/JamilSinno" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/jamil-sinno" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+</p>
+Full Stack Web Developer.
 
-- 📫 How to reach me **jamil.sinno@gmail.com**
+My motivation lies within using technology as a tool for positive change. With a background in Chemical & Industrial Engineering.
 
-- ⚡ Fun fact **I like to lift, and I have two cats named Ed and Al**
+Want to know more about me or have a website or app developed for you? Visit me at my <a href="https://jamilsinno.ca">website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
