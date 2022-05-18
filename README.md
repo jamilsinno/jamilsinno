@@ -71,7 +71,7 @@ Want to know more about me or have a website or app developed for you? Visit me 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML, CSS and JS</strong> A webpage to showcase Sally's work and their designs</p>
     </td>
   </tr>
 </table>
