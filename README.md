@@ -41,7 +41,7 @@ Want to know more about me or have a website or app developed for you? Visit me 
       <h3 align="center">Steve's Gallery</h3>
         <br />
         <a target="_blank" href="https://stevesgallery.netlify.app/">
-            <img src="images/StevesGallery" width="100%" alt="Travel App"/>
+            <img src="images/StevesGallery" width="100%" alt="StevesGallery"/>
         </a>
         <br />
         <p align="center">
