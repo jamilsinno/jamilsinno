@@ -34,6 +34,7 @@ Want to know more about me or have a website or app developed for you? Visit me 
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamilsinno&theme=highcontrast" alt="jamilsinno" /></p>
   
   <tr>
     <td width="50%" valign="top">
@@ -75,4 +76,4 @@ Want to know more about me or have a website or app developed for you? Visit me 
   </tr>
 </table>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamilsinno&theme=highcontrast" alt="jamilsinno" /></p>
+
