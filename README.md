@@ -73,6 +73,6 @@ Want to know more about me or have a website or app developed for you? Visit me 
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
   </tr>
-
+</table>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamilsinno&theme=highcontrast" alt="jamilsinno" /></p>
