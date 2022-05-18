@@ -54,7 +54,7 @@ Want to know more about me or have a website or app developed for you? Visit me 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS and JS - A website design to showcase Steve Johnson's work from Pexel</p>
+        <p><strong>HTML, CSS and JS</strong> - A website design to showcase Steve Johnson's work from Pexel</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Sally's Salon</h3>
@@ -72,7 +72,7 @@ Want to know more about me or have a website or app developed for you? Visit me 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS and JS</strong> A webpage to showcase Sally's work and their designs</p>
+        <p><strong>HTML, CSS and JS</strong> - A webpage to showcase Sally's work and their designs</p>
     </td>
   </tr>
 </table>
