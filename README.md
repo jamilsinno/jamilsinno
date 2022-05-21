@@ -41,19 +41,19 @@ Want to know more about me or have a website or app developed for you? Visit me 
       <h3 align="center">Canuck Coffee</h3>
         <br />
         <a target="_blank" href="https://canuckcoffee.netlify.app/">
-            <img src="images/StevesGallery.png" width="100%" alt="StevesGallery"/>
+            <img src="images/CanuckCoffee.png" width="100%" alt="Canuck Coffee front page image."/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jamilsinno/StevesGallery" target="_blank">
+  <a href="https://canuckcoffee.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://stevesgallery.netlify.app/" target="_blank">
+  <a href="https://github.com/jamilsinno/CanuckCoffee" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS and JS</strong> - A website design to showcase Steve Johnson's work from Pexel</p>
+        <p><strong>HTML, CSS and JS</strong> - Canuck coffee is a imaginary coffee shop in the heart of Toronto.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Steve's Gallery</h3>
