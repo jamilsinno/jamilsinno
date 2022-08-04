@@ -38,6 +38,20 @@ Want to know more about me or have a website or app developed for you? Visit me 
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Connect the Dots Marketing and Branding</h3>
+        <br />
+        <a target="_blank" href="https://www.cthedots.com/">
+            <img src="images/ConnectTheDots.png" width="100%" alt="Connect the Dots Marketing and Branding front page"/>
+        </a>
+        <br />
+        <p align="center"> 
+          <a href="https://www.cthedots.com/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>HTML, CSS and JS - A website design to showcase Steve Johnson's work from Pexel</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Canuck Coffee</h3>
         <br />
         <a target="_blank" href="https://canuckcoffee.netlify.app/">
@@ -53,8 +67,11 @@ Want to know more about me or have a website or app developed for you? Visit me 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS and JS</strong> - Canuck coffee is a imaginary coffee shop in the heart of Toronto.</p>
+        <p>HTML, CSS and JS - Canuck coffee is a imaginary coffee shop in the heart of Toronto.</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Steve's Gallery</h3>
         <br />
@@ -71,11 +88,8 @@ Want to know more about me or have a website or app developed for you? Visit me 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS and JS</strong> - A website design to showcase Steve Johnson's work from Pexel</p>
+        <p>HTML, CSS and JS - A website design to showcase Steve Johnson's work from Pexel</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Sally's Salon</h3>
         <br />
@@ -92,7 +106,7 @@ Want to know more about me or have a website or app developed for you? Visit me 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS and JS</strong> - A webpage to showcase Sally's work and their designs</p>
+        <p>HTML, CSS and JS - A webpage to showcase Sally's work and their designs</p>
     </td>
   </tr>
 </table>
