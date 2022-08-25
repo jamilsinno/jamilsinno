@@ -16,7 +16,7 @@
 </p>
 <p>My name is Jamil Sinno. I am a Full-Stack Software Developer specializing in the MERN stack. My career vision is to educate, and advocate for accessibility and representation in tech.</p>
 
-<p>I was born in Kuwait to Lebanese parents before immigrating to Halifax in 2004. Growing up as an immigrant in Canada came with a lot of challenges and opportunities. With a background in Chemical and Industrial Engineering from Dalhousie University, I plan on bringing my experiences into the tech world. Furthermore, I plan to advocate for those with similar experiences and to build representation. I believe there is a place for everyone in tech, and that technology can improve many people's lives, specifically marginalized groups.</p>
+<p>I was born in Kuwait to Lebanese parents before immigrating to Halifax in 2004. Growing up as an immigrant in Canada came with a lot of challenges and opportunities that leave me well placed to advocate for and represent those with similar experiences.  With my background in Chemical and Industrial Engineering from Dalhousie University and a passion for writing code, I plan on bringing my expertise into the tech world. I believe there is a place for everyone in tech, and that technology can improve many people's lives, specifically marginalized groups.</p>
 
 <p>When I'm not coding I'm usually gaming, lifting, cooking, reading, or posting about my experiences. I have two cats, Ed and Al. I post pictures of them frequently on my <a href="https://twitter.com/JamilSinno" target="_blank" rel="noopener noreferrer">Twitter</a>.</p>
 
