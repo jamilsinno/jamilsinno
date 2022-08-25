@@ -113,4 +113,22 @@
   </tr>
 </table>
 
-
+<h1 align="center">Decks</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">What Is The Model View Controller? Ft. Mongoose</h3>
+        <br />
+        <a target="_blank" href="https://1drv.ms/p/s!AkPXqkA8Qy8mjWukpZQRBcN4dKjR?e=xCIMnK">
+            <img src="images/MVC.png" width="100%" alt="Model View Controller slide deck front page"/>
+        </a>
+        <br />
+        <p align="center"> 
+          <a href="https://1drv.ms/p/s!AkPXqkA8Qy8mjWukpZQRBcN4dKjR?e=xCIMnK" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=READ&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>Technologies covered: MVC, Mongoose</p>
+    </td>
+  </tr>
+</table>
