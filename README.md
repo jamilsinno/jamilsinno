@@ -145,7 +145,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>
         </p>
-        <p>Technologies covered: MVC, Mongoose</p>
+        <p>Technologies used: Python, Pyomo, Gurobi</p>
     </td>
   </tr>
 </table>
