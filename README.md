@@ -116,7 +116,7 @@
 <h1 align="center">Decks</h1>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">What Is The Model View Controller? Ft. Mongoose</h3>
         <br />
         <a target="_blank" href="https://1drv.ms/p/s!AkPXqkA8Qy8mjWukpZQRBcN4dKjR?e=xCIMnK">
@@ -126,6 +126,23 @@
         <p align="center"> 
           <a href="https://1drv.ms/p/s!AkPXqkA8Qy8mjWukpZQRBcN4dKjR?e=xCIMnK" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=READ&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>Technologies covered: MVC, Mongoose</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Travelling App Industrial Engineering Master's Project</h3>
+        <br />
+        <a target="_blank" href="https://1drv.ms/p/s!AkPXqkA8Qy8mjW0kD1KhL9DlDRw7?e=yrS5dG">
+            <img src="images/TermProject.png" width="100%" alt="Picture titled IENG 6912 Term project"/>
+        </a>
+        <br />
+        <p align="center"> 
+          <a href="https://1drv.ms/p/s!AkPXqkA8Qy8mjW0kD1KhL9DlDRw7?e=yrS5dG" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=READ&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+          <a href="https://github.com/jamilsinno/travellingApp" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>
         </p>
         <p>Technologies covered: MVC, Mongoose</p>
