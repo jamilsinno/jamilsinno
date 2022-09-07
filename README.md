@@ -117,6 +117,21 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">React: A JavaScript Library</h3>
+        <br />
+        <a target="_blank" href="https://1drv.ms/p/s!AkPXqkA8Qy8mjXXzuW1vokBV2oUv?e=yyyuT2">
+            <img src="images/React.png" width="100%" alt="Picture titled React: A JavaScript Library"/>
+        </a>
+        <br />
+        <p align="center"> 
+          <a href="https://1drv.ms/p/s!AkPXqkA8Qy8mjXXzuW1vokBV2oUv?e=yyyuT2" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=READ&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>Technologies used: React.js</p>
+        <h6>Tags: Education</h6>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">What Is The Model View Controller? Ft. Mongoose</h3>
         <br />
         <a target="_blank" href="https://1drv.ms/p/s!AkPXqkA8Qy8mjWukpZQRBcN4dKjR?e=xCIMnK">
@@ -129,7 +144,10 @@
           </a>
         </p>
         <p>Technologies covered: MVC, Mongoose</p>
+        <h6>Tags: Education</h6>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Travelling App Industrial Engineering Master's Project</h3>
         <br />
@@ -146,6 +164,7 @@
           </a>
         </p>
         <p>Technologies used: Python, Pyomo, Gurobi</p>
+        <h6>Tags: Project, Optimization, Operations Research</h6>
     </td>
   </tr>
 </table>
