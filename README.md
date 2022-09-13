@@ -29,6 +29,7 @@
 <a href="https://twitter.com/jamilsinno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamilsinno twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamilsinno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamilsinno linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/stacks_for_dumbies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stacks_for_dumbies instagram" height="30" width="40" /></a>
+<a href="https://jamilsinno.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Jamil Sinno Hashnode Blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
