@@ -5,16 +5,16 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/jamilsinno" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/JamilSinno" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/jamil-sinno" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
   <a href="https://jamilsinno.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=Hashnode&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=HASHNODE&color=cdf998&style=plastic&logo=Hashnode&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/jamil-sinno" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-CO&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 <p>My name is Jamil Sinno. I am a Full-Stack Software Developer specializing in the MERN stack. My career vision is to educate, and advocate for accessibility and representation in tech.</p>
