@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=HASHNODE&color=cdf998&style=plastic&logo=Hashnode&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/jamil-sinno" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-CO&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-CO&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
 <p>My name is Jamil Sinno. I am a Full-Stack Software Developer specializing in the MERN stack. My career vision is to educate, and advocate for accessibility and representation in tech.</p>
@@ -44,6 +44,20 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">No Game Left Behind</h3>
+        <br />
+        <a target="_blank" href="https://github.com/jamilsinno/100hours">
+            <img src="images/Login.png" width="100%" alt="Login Page of No Game Left Behind"/>
+        </a>
+        <br />
+        <p align="center"> 
+          <a href="https://github.com/jamilsinno/100hours" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+        </p>
+        <p>HTML, CSS, JavaScript, EJS, Node.js, Express, Passport.js, Tailwind CSS, Daisy UI, MongoDB</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">R.A.M.P. Atlantic Ltd.</h3>
         <br />
         <a target="_blank" href="https://rampatlantic.netlify.app/">
@@ -57,6 +71,9 @@
         </p>
         <p>HTML, CSS and JS - A website design to showcase R.A.M.P. Atlantic Ltd. website and services.</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Connect the Dots Marketing and Branding</h3>
         <br />
@@ -71,9 +88,6 @@
         </p>
         <p>HTML, CSS and JS - A website design to showcase Connect The Dots Marketing and Branding's website.</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Canuck Coffee</h3>
         <br />
@@ -92,6 +106,8 @@
       </p>
         <p>HTML, CSS and JS - Canuck coffee is a imaginary coffee shop in the heart of Toronto.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Steve's Gallery</h3>
         <br />
