@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/vn3LtVE.png" width="100%" alt="Jamil Sinno Page logo">
+<img src="images/logo.png" width="100%" alt="Jamil Sinno Page logo">
 
 <p align="center">
   <a href="https://jamilsinno.ca" target="_blank">
