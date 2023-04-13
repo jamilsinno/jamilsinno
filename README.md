@@ -44,6 +44,18 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">UNUM Health</h3>
+        <br />
+        <a href="#">
+            <img src="images/unumHealth.png" width="100%" alt="Front page picture of UNUM Health"/>
+        </a>
+        <br />
+        <p align="center"> 
+          Healthcare - No repo or website available.
+        </p>
+        <p>HTML, CSS and JS - A website design to showcase R.A.M.P. Atlantic Ltd. website and services.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">No Game Left Behind</h3>
         <br />
         <a target="_blank" href="https://github.com/jamilsinno/100hours">
@@ -57,6 +69,9 @@
         </p>
         <p>HTML, CSS, JavaScript, EJS, Node.js, Express, Passport.js, Tailwind CSS, Daisy UI, MongoDB</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">R.A.M.P. Atlantic Ltd.</h3>
         <br />
@@ -71,9 +86,6 @@
         </p>
         <p>HTML, CSS and JS - A website design to showcase R.A.M.P. Atlantic Ltd. website and services.</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Connect the Dots Marketing and Branding</h3>
         <br />
@@ -88,6 +100,8 @@
         </p>
         <p>HTML, CSS and JS - A website design to showcase Connect The Dots Marketing and Branding's website.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Canuck Coffee</h3>
         <br />
@@ -106,8 +120,6 @@
       </p>
         <p>HTML, CSS and JS - Canuck coffee is a imaginary coffee shop in the heart of Toronto.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Steve's Gallery</h3>
         <br />
