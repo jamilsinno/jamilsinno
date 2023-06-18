@@ -17,15 +17,13 @@
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-CO&color=23555f&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
-<p>My name is Jamil Sinno. I am a Full-Stack Software Developer specializing in the MERN stack. My career vision is to educate, and advocate for accessibility and representation in tech.</p>
+<p>I am a Full-Stack Software Developer with expertise in building both mobile and web applications. My career vision is centered around promoting accessibility and representation in the technology industry through education and advocacy.</p>
 
-<p>I was born in Kuwait to Lebanese parents before immigrating to Halifax in 2004. Growing up as an immigrant in Canada came with a lot of challenges and opportunities that leave me well placed to advocate for and represent those with similar experiences.  With my background in Chemical and Industrial Engineering from Dalhousie University and a passion for writing code, I plan on bringing my expertise into the tech world. I believe there is a place for everyone in tech, and that technology can improve many people's lives, specifically marginalized groups.</p>
+<p>I was born in Kuwait to Lebanese parents. We made the move to Halifax in 2004. Growing up as an immigrant in Canada has given me valuable experiences and a unique perspective that drives me to advocate for others who share similar backgrounds. With a background in Chemical and Industrial Engineering from Dalhousie University and a genuine passion for coding, I am determined to utilize my skills to make a positive impact in the tech world. I firmly believe that everyone, regardless of their background, should have opportunities in the ever-expanding field of technology.</p>
 
-<p>When I'm not coding I'm usually gaming, lifting, cooking, reading, or posting about my experiences. I have two cats, Ed and Al. I post pictures of them frequently on my <a href="https://twitter.com/JamilSinno" target="_blank" rel="noopener noreferrer">Twitter</a>.</p>
+<p>When I'm not immersed in code, I find joy in exploring various hobbies. I'm currently learning to play the drums and keyboard, pushing myself in weightlifting sessions, experimenting with new recipes in the kitchen, diving into captivating books, and sharing snippets of my life through social media. And of course, I can't forget to mention my two beloved cats, Ed and Al, who often steal the spotlight on my <a class="link" href="https://twitter.com/JamilSinno" target="_blank" rel="noreferrer noopener">Twitter</a> feed with their adorable pictures.</p>
 
 <p>Want to know more about me or have a website or app developed for you? Visit me at my <a href="https://jamilsinno.ca">website.</a></p>
-
-<a href="https://www.a11yproject.com/">#A11y project</a> advocate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
