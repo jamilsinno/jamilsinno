@@ -50,7 +50,7 @@
         <p align="center"> 
           Healthcare - No repo or website available.
         </p>
-        <p>HTML, CSS and JS - A website design to showcase R.A.M.P. Atlantic Ltd. website and services.</p>
+        <p>Start up - Full Stack Application built with React, PHP, and PostgreSQL in Docker environment. Contract complete. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">No Game Left Behind</h3>
