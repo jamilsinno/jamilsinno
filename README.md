@@ -44,7 +44,7 @@
       <h3 align="center">Parkland Property Management</h3>
         <br />
         <a href="https://www.parklandpm.ca/">
-            <img src="images/ParklanPM.png" width="100%" alt="Front page picture of Parkland Property Management's Website"/>
+            <img src="images/ParklandPM.png" width="100%" alt="Front page picture of Parkland Property Management's Website"/>
         </a>
         <br />
         <p align="center"> 
