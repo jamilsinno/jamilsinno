@@ -41,6 +41,20 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Parkland Property Management</h3>
+        <br />
+        <a href="https://www.parklandpm.ca/">
+            <img src="images/ParklanPM.png" width="100%" alt="Front page picture of Parkland Property Management's Website"/>
+        </a>
+        <br />
+        <p align="center"> 
+          <a href="https://www.parklandpm.ca/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>Parkland Property Management's static website designed to specifications.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">UNUM Health</h3>
         <br />
         <a href="#">
@@ -52,6 +66,9 @@
         </p>
         <p>Start up - Full Stack Application built with React, PHP, and PostgreSQL in Docker environment. Contract complete. </p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">No Game Left Behind</h3>
         <br />
@@ -66,9 +83,6 @@
         </p>
         <p>HTML, CSS, JavaScript, EJS, Node.js, Express, Passport.js, Tailwind CSS, Daisy UI, MongoDB</p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">R.A.M.P. Atlantic Ltd.</h3>
         <br />
@@ -83,6 +97,8 @@
         </p>
         <p>HTML, CSS and JS - A website design to showcase R.A.M.P. Atlantic Ltd. website and services.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Connect the Dots Marketing and Branding</h3>
         <br />
@@ -97,8 +113,6 @@
         </p>
         <p>HTML, CSS and JS - A website design to showcase Connect The Dots Marketing and Branding's website.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Canuck Coffee</h3>
         <br />
@@ -116,24 +130,6 @@
   </a>
       </p>
         <p>HTML, CSS and JS - Canuck coffee is a imaginary coffee shop in the heart of Toronto.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Steve's Gallery</h3>
-        <br />
-        <a target="_blank" href="https://stevesgallery.netlify.app/">
-            <img src="images/StevesGallery.png" width="100%" alt="StevesGallery"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/jamilsinno/StevesGallery" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://stevesgallery.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>HTML, CSS and JS - A website design to showcase Steve Johnson's work from Pexel</p>
     </td>
   </tr>
 </table>
