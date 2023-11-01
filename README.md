@@ -1,4 +1,4 @@
-<img src="images/logo.png" width="100%" alt="Jamil Sinno Page logo">
+<img src="images/logo_header.png" width="100%" alt="Sinno Technologies Main Logo. The logo has a black background, a yellow icon and white text. The text says Sinno Technologies, the yellow icon is a circle with a hollow square in the middle with 4 circles and 4 hollow squares extending from it in an octagonal shape">
 
 <p align="center">
   <a href="https://jamilsinno.ca" target="_blank">
