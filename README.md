@@ -1,11 +1,14 @@
 <img src="images/logo_header.png" width="100%" alt="Sinno Technologies Main Logo. The logo has a black background, a yellow icon and white text. The text says Sinno Technologies, the yellow icon is a circle with a hollow square in the middle with 4 circles and 4 hollow squares extending from it in an octagonal shape">
 
 <p align="center">
-  <a href="https://jamilsinno.ca" target="_blank">
+  <a href="https://sinno.ca" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/jamilsinno" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/company/sinno-tech/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=COMPANY-LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/JamilSinno" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
@@ -13,17 +16,12 @@
   <a href="https://jamilsinno.hashnode.dev/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=HASHNODE&color=cdf998&style=plastic&logo=Hashnode&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/jamil-sinno" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-CO&color=23555f&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
 </p>
-<p>I am a Full-Stack Software Developer with expertise in building both mobile and web applications. My career vision is centered around promoting accessibility and representation in the technology industry through education and advocacy.</p>
+<p>I am the Found & Principal Consultant @ Sinno Technologies Limited. with expertise in building both mobile and web applications. Our vision is centered around promoting accessibility and representation in the technology industry through education and advocacy.</p>
 
-<p>I was born in Kuwait to Lebanese parents. We made the move to Halifax in 2004. Growing up as an immigrant in Canada has given me valuable experiences and a unique perspective that drives me to advocate for others who share similar backgrounds. With a background in Chemical and Industrial Engineering from Dalhousie University and a genuine passion for coding, I am determined to utilize my skills to make a positive impact in the tech world. I firmly believe that everyone, regardless of their background, should have opportunities in the ever-expanding field of technology.</p>
+<p>I believe in the power of accessible web design to transform businesses. At Sinno Technologies Limited, our mission is to help companies bring their visions to life by creating inclusive digital experiences that drive engagement, generate leads, and boost sales.</p>
 
-<p>When I'm not immersed in code, I find joy in exploring various hobbies. I'm currently learning to play the drums and keyboard, pushing myself in weightlifting sessions, experimenting with new recipes in the kitchen, diving into captivating books, and sharing snippets of my life through social media. And of course, I can't forget to mention my two beloved cats, Ed and Al, who often steal the spotlight on my <a class="link" href="https://twitter.com/JamilSinno" target="_blank" rel="noreferrer noopener">Twitter</a> feed with their adorable pictures.</p>
-
-<p>Want to know more about me or have a website or app developed for you? Visit me at my <a href="https://jamilsinno.ca">website.</a></p>
+<p>Want to know more about me or have a website or app developed for you? Visit us at our <a href="https://sinno.ca">website.</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
