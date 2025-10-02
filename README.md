@@ -1,7 +1,7 @@
 <img src="images/logo_header.png" width="100%" alt="Sinno Technologies Main Logo. The logo has a black background, a yellow icon and white text. The text says Sinno Technologies, the yellow icon is a circle with a hollow square in the middle with 4 circles and 4 hollow squares extending from it in an octagonal shape">
 
 <p align="center">
-  <a href="https://sinno.ca" target="_blank">
+  <a href="https://jamilsinno.ca" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/jamilsinno" target="_blank">
@@ -17,11 +17,11 @@
       <img src="https://img.shields.io/static/v1?label=|&message=HASHNODE&color=cdf998&style=plastic&logo=Hashnode&logo-color=white"/>
   </a>
 </p>
-<p>I am the Found & Principal Consultant @ Sinno Technologies Limited. with expertise in building both mobile and web applications. Our vision is centered around promoting accessibility and representation in the technology industry through education and advocacy.</p>
+<p>I am a Software Developer, a Web Accessibility enthusiast, a musician, an older brother and a community member.</p>
 
-<p>I believe in the power of accessible web design to transform businesses. At Sinno Technologies Limited, our mission is to help companies bring their visions to life by creating inclusive digital experiences that drive engagement, generate leads, and boost sales.</p>
+<p>I am also a continuous learner. I believe that an essential part of learning is to teach. I host workshops for people in my community to learn about code, and web accessibility, and I jam with friends to become a better musician.</p>
 
-<p>Want to know more about me or have a website or app developed for you? Visit us at our <a href="https://sinno.ca">website.</a></p>
+<p>Want to know more about me or read my blog? Visit us at our <a href="https://jamilsinno.ca">website.</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
